@@ -1,4 +1,4 @@
-[file name: q1-matching-<type>.md]
+[file name: q1-matching-<category>.md]
 
 # Matching question
 

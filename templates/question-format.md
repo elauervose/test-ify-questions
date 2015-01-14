@@ -1,3 +1,5 @@
+[file naming format: q<#>-<type>-category.md]
+
 # Question Type
   * <code>
     - enter characters to complete/correct syntax
