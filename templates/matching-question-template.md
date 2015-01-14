@@ -1,69 +1,75 @@
-[file name: q1-matching-<type>.md]
+example filename: 1421204910-matching.md
+^---- number is a unix timestamp (http://www.unixtimestamp.com/)
 
-# Matching question
+# Question
 
-## Instructions
-  Match the items in the lettered list to correct item in the numbered list.
+What would the output be for the code below if each of the items in the numbered list were inserted into the blank space below?
 
-### What would the output be for the code below if each of the items in the numbered list were inserted into the <brackets> below?
+```ruby
+%w(dog cat ferret).select do |animal|
+  _____________
+end
+```
 
-#### Additional question info
+# Answer Options
 
-    %(dog cat ferret).<insert code> do |animal|
-      animal
-    end
+> _Match the items in the lettered list to correct item in the numbered list_
 
-##### Answer Options
+* a. `animal.length <= 4`
+* b. `animal == animal`
+* c. `animal.length > 3`
 
-      1. map
-      2. each_with_index({})
-      3. reduce
+***
 
-      a. #=> ['dog', 'cat', 'ferret']
-      b. #=> ???
-      c. #=> error
+1. `#=> ['dog', 'cat', 'ferret']`
+1. `#=> 'ferret'`
+1. `#=> ['dog', 'cat']`
 
-[scroll down to see answer]
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-###### Correct Answer
+# Answer
 
-1. =
-2. =
-3. =
+**Scroll down to see answer.**
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Correct Answer
+
+* a. =
+* b. =
+* c. =
